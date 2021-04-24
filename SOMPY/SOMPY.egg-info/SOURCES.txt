@@ -1,0 +1,5 @@
+SOMPY.egg-info/PKG-INFO
+SOMPY.egg-info/SOURCES.txt
+SOMPY.egg-info/dependency_links.txt
+SOMPY.egg-info/requires.txt
+SOMPY.egg-info/top_level.txt
